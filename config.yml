@@ -83,6 +83,7 @@ links:
 # url: The URL of the social media link
 # alt: Alternative text for accessibility
 # target: _blank opens in a new tab, _self opens in the same frame
+socials:
   - social:
       icon: "fa-brands fa-github"
       url: "https://github.com/vector-co-uz/"
