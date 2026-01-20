@@ -14,7 +14,7 @@
 
 ## Donate
 
-[![Coming soon]]
+[Coming soon]
 
 ## About
 - [Vector.co.uz](https://github.com/vector-co-uz)
